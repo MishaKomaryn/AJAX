@@ -1,8 +1,176 @@
 {
   "posts": [
-
+  
   {
-    "id": "1",
+    
+    "id": 1,
+    "nameOfRegion":
+    "nameOfObl":
+    "nameOil":
+    "date":
+    "numFuel":
+    "numDizFuel":
+    "numOil":
+    
+  },
+  {
+    
+    "id": 2,
+    "nameOfRegion":
+    "nameOfObl":
+    "nameOil":
+    "date":
+    "numFuel":
+    "numDizFuel":
+    "numOil":
+    
+  },
+  {
+    
+    "id": 3,
+    "nameOfRegion":
+    "nameOfObl":
+    "nameOil":
+    "date":
+    "numFuel":
+    "numDizFuel":
+    "numOil":
+    
+  },
+  {
+        
+    "id": 4,
+    "nameOfRegion":
+    "nameOfObl":
+    "nameOil":
+    "date":
+    "numFuel":
+    "numDizFuel":
+    "numOil":
+    
+  },
+  {
+        
+    "id": 5,
+    "nameOfRegion":
+    "nameOfObl":
+    "nameOil":
+    "date":
+    "numFuel":
+    "numDizFuel":
+    "numOil":
+    
+  },
+  {
+        
+    "id": 6,
+    "nameOfRegion":
+    "nameOfObl":
+    "nameOil":
+    "date":
+    "numFuel":
+    "numDizFuel":
+    "numOil":
+    
+  },
+  {
+        
+    "id": 7,
+    "nameOfRegion":
+    "nameOfObl":
+    "nameOil":
+    "date":
+    "numFuel":
+    "numDizFuel":
+    "numOil":
+    
+  },
+  {
+        
+    "id": 8,
+    "nameOfRegion":
+    "nameOfObl":
+    "nameOil":
+    "date":
+    "numFuel":
+    "numDizFuel":
+    "numOil":
+    
+  }
+  {
+        
+    "id": 9,
+    "nameOfRegion":
+    "nameOfObl":
+    "nameOil":
+    "date":
+    "numFuel":
+    "numDizFuel":
+    "numOil":
+    
+  },
+  {
+        
+    "id": 10,
+    "nameOfRegion":
+    "nameOfObl":
+    "nameOil":
+    "date":
+    "numFuel":
+    "numDizFuel":
+    "numOil":
+    
+  },
+  {
+        
+    "id": 11,
+    "nameOfRegion":
+    "nameOfObl":
+    "nameOil":
+    "date":
+    "numFuel":
+    "numDizFuel":
+    "numOil":
+    
+  },
+  {
+        
+    "id": 12,
+    "nameOfRegion":
+    "nameOfObl":
+    "nameOil":
+    "date":
+    "numFuel":
+    "numDizFuel":
+    "numOil":
+    
+  },
+  {
+        
+    "id": 13,
+    "nameOfRegion":
+    "nameOfObl":
+    "nameOil":
+    "date":
+    "numFuel":
+    "numDizFuel":
+    "numOil":
+    
+  },
+  {
+        
+    "id": 14,
+    "nameOfRegion":
+    "nameOfObl":
+    "nameOil":
+    "date":
+    "numFuel":
+    "numDizFuel":
+    "numOil":
+    
+  },
+  {
+    "id": 15,
     "nameOfRegion": "Передкарпатська нафтогазоносна область",
     "nameOfObl": "Івано-Франківська",
     "nameOil": "Одаї НБ",
@@ -12,6 +180,6 @@
     "numOil": "0,500"
     
   }
-
+    
   ]
 }
